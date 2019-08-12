@@ -1,0 +1,16 @@
+#shoppingList{
+  color: black;
+}
+#shoppingList h1{
+  text-align: center;
+  font-family: "Playball", serif;  
+}
+#shoppingList li{
+  margin-left: 25%;
+}
+#listTotal {
+  color: black;
+  margin-left: 25%;
+  height: 25px;
+  height: auto;
+}
